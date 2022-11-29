@@ -38,3 +38,22 @@
 .categories img{
     width: 100px;
 }
+.card{
+   box-shadow:  5px 5px 10px grey;
+   border: none;
+   border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.backpacks{
+    margin-top: 100px;
+}
+#Contuct_us{
+    background-color: #efa0ef;
+    padding: 130px;
+}
+footer{
+    text-align: center;
+}
